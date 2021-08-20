@@ -1,0 +1,11 @@
+.photo{
+    background-image: url("1.jpg");
+    background-size: cover;
+    height: 300px;
+    opacity: 0.5;
+}
+
+.footer{
+    background-color: rgb(56, 54, 54);
+    margin-top: 200px;
+}
